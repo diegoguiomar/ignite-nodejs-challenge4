@@ -16,7 +16,7 @@
     "@types/express": "^4.17.11",
     "@types/jest": "^26.0.20",
     "@types/swagger-ui-express": "^4.1.2",
-    "@types/uuid": "^8.3.0",
+    "@types/uuid": "^8.3.4",
     "@typescript-eslint/eslint-plugin": "^4.16.1",
     "@typescript-eslint/parser": "^4.16.1",
     "eslint": "^7.21.0",
@@ -32,5 +32,16 @@
     "ts-jest": "^26.5.3",
     "ts-node-dev": "^1.1.6",
     "typescript": "^4.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocketseat-education/ignite-template-introducao-ao-SOLID.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/rocketseat-education/ignite-template-introducao-ao-SOLID/issues"
+  },
+  "homepage": "https://github.com/rocketseat-education/ignite-template-introducao-ao-SOLID#readme",
+  "description": ""
 }
